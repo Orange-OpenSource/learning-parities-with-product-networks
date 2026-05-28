@@ -1,0 +1,11 @@
+Study G: Joint impact of alpha, p_e, and batch size for different N
+Timestamp: 20260420_233418
+N range: 10 to 1000
+Number of N values: 10
+Batch sizes: 10 to 10000
+Number of batch sizes: 4
+alpha_range = [('1', <function <lambda> at 0x79b52db01620>), ('N/10', <function <lambda> at 0x79b52db01b20>)]
+p_e range: [('1/1000', <function <lambda> at 0x79b3d2a4f6a0>), ('1/N', <function <lambda> at 0x79b3d2a58ea0>)]
+Max steps: 25000
+Convergence threshold: 0.01
+p_w: 0.5

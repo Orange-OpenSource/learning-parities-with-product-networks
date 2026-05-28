@@ -1,0 +1,10 @@
+Study B: Optimal p_e for different N
+Timestamp: 20260420_200010
+N range: 10 to 1000
+Number of N values: 50
+alpha = 0.1
+p_e per N: 50 values
+Batch size: 100
+Max steps: 25000
+Convergence threshold: 0.01
+p_w: 0.5

@@ -1,0 +1,9 @@
+Study D: Optimal alpha for different N
+Timestamp: 20260420_203622
+N range: 10 to 1000
+Number of N values: 20
+For each N: p_e = 1/N (optimal)
+alpha per N: 50 values
+max_steps per N: 2 * int(15.5 * N + 20)
+Convergence threshold: 0.01
+p_w: 0.5

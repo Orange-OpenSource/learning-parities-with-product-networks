@@ -1,0 +1,5 @@
+Study H: Product Node vs MLP — Sparse vs Full-Table Training
+Timestamp: 20260420_233719
+N=16, n_outputs=250, p_e=1/N=0.062500, p_w=0.5
+batch_size=100, max_steps=1000000, n_evals=31 (log-spaced, 5 pts/decade)
+n_runs=1, lr_sparse=0.02, lr_full=0.02, mlp_hidden=(512, 512, 64, 1)

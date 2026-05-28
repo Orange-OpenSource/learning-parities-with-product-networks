@@ -1,0 +1,9 @@
+Study C: Impact of alpha (learning rate)
+Timestamp: 20260420_200913
+N = 100
+p_e = 1/N = 0.0100
+alpha range: 0.0100 to 100.0000
+Number of alpha values: 50
+Max steps: 10000
+Convergence threshold: 0.01
+p_w: 0.5

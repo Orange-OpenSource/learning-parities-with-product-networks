@@ -1,0 +1,9 @@
+Study E: Impact of p_e (large batch size)
+Timestamp: 20260420_212337
+N = 100
+alpha = 0.1
+p_e range: 0.0010 to 0.1000
+Number of p_e values: 50
+Max steps: 10000
+Convergence threshold: 0.01
+p_w: 0.5
